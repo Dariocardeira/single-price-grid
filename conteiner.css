@@ -1,0 +1,87 @@
+body{
+    background-color:#e6eff6
+}
+.conteiner{
+    width: 100%;
+    height: 100%;
+    color:#e6eff6;
+}
+.hh2{
+    color:#4abebd
+}
+.hh3{
+   color: #d6e683
+
+}
+.pp{
+    color:#d4d7dc
+}
+.ladodireito{
+    padding-top: 25px;
+    padding-left: 102px;
+    color:#51c1bf;
+  
+}
+.flout{
+    float: left;
+    color:#fbfefd;
+    font-size:20px;
+}
+.cor3{
+    color:#fbfefd;
+    font-size: 41px;
+    text-align: center;
+}
+.cor{
+    color:#fbfefd;
+    font-size: 41px;
+
+   
+}
+.corr{
+    color: #ffff;
+    padding-bottom: 14px;
+
+}
+.botao{
+    background-color:#bfdf32;
+    border: 1px;
+ 
+    border-radius: 12px;
+    font-size: 25px;
+    width: 490px;
+    height: 63px;
+    text-align: center;
+
+}
+.botaoo{
+    margin-top: 82px;
+}
+
+.conteudi1{
+    border: 1px solid #cbc6c6;
+    border-radius: 10px 10px 0px 0px;
+    background-color: #ffffff;
+    padding-left: 60px;
+    font-size: 22px;
+}
+.conteudo2{
+    width:50%;
+    height:519px;
+    border: 1px solid #cbc6c6;
+    border-radius: 0px 0px 10px 10px;
+   background-color:#2bb3b1;
+    padding-left: 60px;
+}
+.conteudo3{
+    border-radius: 0px 0px 10px 0px;
+    background-color: #4abebd;
+    width: 50%;
+    height: 521px;
+    float: right;
+}
+.conteuda3{
+    margin-top: 77px;
+    font-size: 31px;
+    text-align: center;
+}
